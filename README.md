@@ -1,6 +1,6 @@
 Impport! for useage purpose.
 
-# To use the app these steps are must:#
+# To use the app these steps are must:
 
 1.After opening the folder via the terminal.
 
